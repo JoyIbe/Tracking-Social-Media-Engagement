@@ -42,6 +42,7 @@ Data Visualization: Built a two page interactive dashboards  to understand user 
 
 ### Page 1
 
+<img width="644" alt="ZEF 1" src="https://github.com/user-attachments/assets/7388d4e2-a2af-4365-a033-23739477424d" />
 
 ### Key Insights:
 
@@ -67,6 +68,7 @@ Data Visualization: Built a two page interactive dashboards  to understand user 
 
 ### Page 2
 
+<img width="645" alt="ZEF 2" src="https://github.com/user-attachments/assets/e601f979-375d-43d8-8855-22fe74750adb" />
 
 ### Key Insights:
 - The most popular content type is news, closely followed by movies and short videos.
@@ -84,9 +86,33 @@ Data Visualization: Built a two page interactive dashboards  to understand user 
 - Students and unemployed individuals also dedicate substantial time to reading.
 
 - Single users read more compared to married or widowed individuals.
+  
 
+## Recommendations:
 
+- Platform-Specific Marketing: The audience breakdown shows that advertisers should focus on TikTok and Instagram toward younger viewers and use Facebook and YouTube for reaching older demographics.
+  
+ii. Given the nearly equal preference for all platforms, advertising on multi-platform is important.
 
+- Improving Digital Well-being: To reduce social media fatigue level, users should embrace using "Do Not Disturb" features more often.
+
+- Content Strategy Optimization: The platforms should dedicate resources to develop short-form news content and interactive video features because users strongly favor these formats.
+  
+ii. Subscription services need to establish multiple pricing plans that target users from different income groups.
+
+- Digital Literacy Improvement: Educational content promotion must focus specifically on users who lack technological sophistication.
+  
+- Enhancing User Experience via Internet Speed: Streaming platforms need to improve how they distribute content to users who experience slow internet speeds.
+
+# Link to Viz: 
+
+[Power BI](https://app.powerbi.com/reportEmbed?reportId=3af45a88-386b-42ac-b11f-a96fdf8640df&autoAuth=true&ctid=0801c8b7-f6a9-44a2-8891-282fd58fab33)
+
+# Conclusion:
+
+The dashboard system generates important data which helps users make decisions about user behaviors and digital content use as well as productivity levels and content participation metrics. The excessive screen time along with social media fatigue indicates people are too dependent on digital entertainment. Digital platforms need to establish entertainment-productivity equilibrium through demographic analysis for personalized user experiences.
+
+Digital literacy along with mindful consumption and strategic content delivery emerges as essential elements for today's growing online engagement.
 
 
 
