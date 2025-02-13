@@ -1,4 +1,4 @@
-# Social Media Entertainment Analysis Using Figma and Power BI (Zefas/Data Crunch Challenge)
+# Social Media Entertainment Analysis Using Figma and Power BI for Zefas/Data Crunch 
 
 ## Table of Contents
 
