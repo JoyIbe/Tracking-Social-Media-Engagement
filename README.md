@@ -4,6 +4,7 @@
 
 - [Objective](#objective)
 - [Tool and Methodology](#tools-and-methodology)
+- [Challenge and Solution Applied](#challenge-and-solution-applied)
 - [Analysis Findings](#analysis-findings)
 - [Recommendations](#recommendations)
 - [Link to Viz](#link-to-viz)
