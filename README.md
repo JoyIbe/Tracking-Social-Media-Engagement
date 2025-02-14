@@ -30,7 +30,10 @@ Power BI: To build the interactive dashboard.
 
 ### Method:
 
-Data Cleaning: This data provided for this challenge was in a clean state.
+Data Cleaning: This data provided for this challenge was in a clean state but I performed various transformation in columns like
+- Changing age to age group,
+- Monthly income to Low monthly earners, Medium monthly earners and High monthly earners distribution
+- Tech Saviness Level to Very low, Low, High and Very High, etc
  
 Data Processing: With Power Bi's Dax functionalities, I created calculated measures to show valuable metrics, customized and design visuals to aid clarity in understanding trends.
 
