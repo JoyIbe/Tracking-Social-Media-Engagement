@@ -11,7 +11,7 @@
 
 ## Objective:
 
-The primary goal of this dashboard is to analyze user behaviour, digital habits and consumption, and its impact on productivity, lifestyle, and reading behaviours across various demographics. The analysis is structured to achieve the following key questions:
+The primary goal of this analysis is to understand user behaviour, digital habits and consumption, and its impact on productivity, lifestyle, and reading behaviours across various demographics. The analysis is structured to achieve the following key questions:
 [Social Media Questions](https://github.com/JoyIbe/Zefas-and-Data-Crunch-Challenge-Using-Figma-and-Power-BI/blob/4f35b3f9b5c4c9701ef55f35977ebedcb9cceea3/Social%20Media%20Questions.docx)
 
 Data Structure: The dataset contained 40 Columns and 300,000 rows of data.
