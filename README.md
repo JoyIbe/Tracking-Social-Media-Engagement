@@ -32,7 +32,7 @@ Power BI: To build the interactive dashboard.
 
 Data Cleaning: This data provided for this challenge was in a clean state but I performed various transformation in columns like
 - Changing age to age group,
-- Monthly income to Low monthly earners, Medium monthly earners and High monthly earners distribution
+- Monthly income to Low monthly earners, Medium monthly earners and High monthly earners distribution,
 - Tech Saviness Level to Very low, Low, High and Very High, etc
  
 Data Processing: With Power Bi's Dax functionalities, I created calculated measures to show valuable metrics, customized and design visuals to aid clarity in understanding trends.
@@ -40,6 +40,14 @@ Data Processing: With Power Bi's Dax functionalities, I created calculated measu
 Data Modeling: Modeling this data allows for multiple tables with lesser column information to speed up processing time, reduce redundancy and increase efficiency.
 
 Data Visualization: Built a two page interactive dashboards  to understand user behavior, optimize content strategies, and develop healthier digital consumption patterns, balancing the use of social media, entertainment, technology, cultivating more physical habits and prioritizing audience's well-being.
+
+## Challenge and Solution Applied:
+Age column had existing outliers, almost all under 18 ages had record of their occupation as professionals, retired, etc and their marital status as divorced, widowed,etc
+
+A good example was UserID 822, Age: 13 years old, Occupation: Retired, Marital Status: Divorced and many others
+
+### Solution applied: 
+To address this, I identified all records under 18 as outliers, supported by their significantly lower count compared to other age groups. I then grouped these records with the 18-25 age bracket, as it is the closest and most reasonable category for such cases. This approach ensures data consistency and accuracy.
 
 ## Analysis Findings:
 
